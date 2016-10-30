@@ -1,0 +1,24 @@
+{
+  "name": "simple-rest-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murodov20/simple-rest-nodejs.git"
+  },
+  "keywords": [
+    "Rest",
+    "Chat",
+    "NodeJs"
+  ],
+  "author": "Mirjalol Murodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murodov20/simple-rest-nodejs/issues"
+  },
+  "homepage": "https://github.com/murodov20/simple-rest-nodejs#readme"
+}
