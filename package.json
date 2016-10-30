@@ -17,6 +17,12 @@
   ],
   "author": "Mirjalol Murodov",
   "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2",
+    "nedb": "^1.8.0",
+    "socket.io": "^1.5.1",
+    "socket.io-client": "^1.5.1"
+  },
   "bugs": {
     "url": "https://github.com/murodov20/simple-rest-nodejs/issues"
   },
