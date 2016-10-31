@@ -1,15 +1,14 @@
 var app = require('express')();
 var http = require('http');
-// var io = require('socket.io')(http.Server(app));
 var router = require('./components/router.js');
 
 
-/*io.on('connection', function(socket){
-  console.log('a user connected');
-  socket.on('disconnect', function(){
-    console.log('user disconnected');
-  });
-});*/
+/**
+* This method will call on Request received
+* @var req Request current request
+* @var res array received request
+* 
+*/
 
 function onRequest(req, res) {
 	var body = '';
